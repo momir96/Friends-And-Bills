@@ -1,2 +1,3 @@
-# Friends-Bills
+# Friends-&-Bills (the project is in progress)
+
 This project empowers users to manage their friends, add new ones, and split bills seamlessly, all structured within React components for an interactive user experience
